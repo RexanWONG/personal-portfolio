@@ -36,7 +36,7 @@ const LandingPage = () => {
                 <a href='https://twitter.com/rexan_wong' target='_blank' rel='noopener noreferrer' aria-label='LinkedIn'>
                     <FaTwitter className='text-4xl mx-2 hover:text-gray-700 transition-colors'/>
                 </a>
-                <a href='https://www.linkedin.com/in/rexanwong' target='_blank' rel='noopener noreferrer' aria-label='LinkedIn'>
+                <a href='https://www.instagram.com/rexanwonger' target='_blank' rel='noopener noreferrer' aria-label='LinkedIn'>
                     <FaInstagram className='text-4xl mx-2 hover:text-gray-700 transition-colors'/>
                 </a>
             </div>
